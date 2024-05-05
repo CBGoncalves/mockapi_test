@@ -1,0 +1,85 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "nomeUsuario": "Carlos Eduardo",
+            "email": "carlos@email.com",
+            "senha": "teste@123",
+            "telefone": "11966594953"
+        },
+        {
+            "id": "2",
+            "nomeUsuario": "Marcelo Oliveira",
+            "email": "marcelo@email.com",
+            "senha": "teste@123",
+            "telefone": "11977382716"
+        },
+        {
+            "id": "3",
+            "nomeUsuario": "Renato Augusto",
+            "email": "renato@email.com",
+            "senha": "teste@123",
+            "telefone": "11983726384"
+        },
+        {
+            "id": "4",
+            "nomeUsuario": "Luis Silva",
+            "email": "luis@email.com",
+            "senha": "teste@123",
+            "telefone": "11967875450"
+        }
+    ],
+    "posts": [
+        {
+            "id": "1",
+            "title": "Introdução à Programação em Python",
+            "description": "Neste post, mergulhamos nos fundamentos da linguagem de programação Python, abrangendo sintaxe básica, tipos de dados, estruturas de controle e funções. Python é conhecido por sua simplicidade e legibilidade, tornando-o uma excelente escolha para iniciantes e programadores experientes. Exploramos várias aplicações do Python, incluindo desenvolvimento web, análise de dados, aprendizado de máquina e automação. Se você é novo na programação ou está procurando expandir seu conjunto de habilidades, este guia abrangente fornecerá o conhecimento e os recursos necessários para começar a codificar em Python.",
+            "owner": "JohnDoe",
+            "date": "2024-04-15",
+            "comments": [
+                {
+                    "user": "JaneSmith",
+                    "comment": "Ótima introdução! Python é tão versátil."
+                },
+                {
+                    "user": "AlexWong",
+                    "comment": "Comecei a aprender Python na semana passada. Isso é útil."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Comparação de Frameworks JavaScript",
+            "description": "JavaScript continua sendo uma das linguagens de programação mais populares, impulsionando aplicativos web dinâmicos e interativos. Neste post, comparamos três dos frameworks JavaScript mais amplamente utilizados: React, Angular e Vue.js. Examinamos suas características, desempenho, ecossistema e suporte da comunidade para ajudar os desenvolvedores a tomarem decisões informadas ao escolher um framework para seus projetos. Esteja você construindo uma aplicação de página única simples ou uma solução empresarial complexa, entender os pontos fortes e fracos de cada framework é essencial. Junte-se à discussão e descubra qual framework JavaScript melhor se adequa às suas necessidades e preferências.",
+            "owner": "EmilyJones",
+            "date": "2024-04-20",
+            "comments": [
+                {
+                    "user": "MarkTaylor",
+                    "comment": "Leitura interessante! Prefiro React pela sua simplicidade."
+                },
+                {
+                    "user": "SarahBrown",
+                    "comment": "Angular tem uma curva de aprendizado íngreme, mas é poderoso uma vez que você pega o jeito."
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Começando com Git",
+            "description": "Controle de versão é um aspecto crítico do desenvolvimento de software moderno, possibilitando colaboração, rastreamento de alterações e manutenção da integridade do código. Neste post, fornecemos um guia amigável para iniciantes sobre Git, um sistema de controle de versão amplamente adotado. Abordamos os conceitos essenciais do Git, incluindo repositórios, commits, branches e merges, juntamente com exemplos práticos para reforçar o aprendizado. Esteja você trabalhando em um projeto solo ou contribuindo para um ambiente de desenvolvimento baseado em equipe, dominar o Git simplificará seu fluxo de trabalho e aumentará a produtividade. Junte-se a nós nesta jornada para dominar o controle de versão com Git.",
+            "owner": "MichaelClark",
+            "date": "2024-04-25",
+            "comments": [
+                {
+                    "user": "DavidWilson",
+                    "comment": "Git é essencial para qualquer desenvolvedor. Bela explicação!"
+                },
+                {
+                    "user": "LisaGarcia",
+                    "comment": "Eu lutei com Git no começo, mas isso esclareceu muita confusão."
+                }
+            ]
+        }
+    ]
+}
