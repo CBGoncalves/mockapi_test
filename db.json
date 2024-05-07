@@ -81,5 +81,1334 @@
                 }
             ]
         }
+    ],
+    "playlist": [
+        {
+            "playlistName": "Programação de Computadores do ciclo básico das Engenharias da UNIVESP",
+            "kind": "youtube#playlistItemListResponse",
+            "etag": "R9PiqyCQRD8beWHScz0OLw5aTPw",
+            "items": [
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "Wmlt1Kqni4VlsXWL3VbZMBl1H3U",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS41NkI0NEY2RDEwNTU3Q0M2",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:13:04Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 01 - Apresentação da Disciplina",
+                        "description": "Disciplina: Programação de Computadores - ILP 001\nAula 01 - Apresentação da Disciplina\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/FBLxJqOfl5I/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/FBLxJqOfl5I/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/FBLxJqOfl5I/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/FBLxJqOfl5I/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/FBLxJqOfl5I/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 0,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "FBLxJqOfl5I"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "prcXdgNAwySabi58yqYu7_IUwCE",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4yODlGNEE0NkRGMEEzMEQy",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:13:23Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 02 - Problemas e Algoritmos",
+                        "description": "Disciplina: Programação de Computadores - ILP 001\nAula 02 - Problemas e Algoritmos\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/fOz5Ek84s9o/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/fOz5Ek84s9o/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/fOz5Ek84s9o/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/fOz5Ek84s9o/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/fOz5Ek84s9o/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 1,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "fOz5Ek84s9o"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "L8u5KJYeA3S85VFU7hI88kuXngU",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4wMTcyMDhGQUE4NTIzM0Y5",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:13:29Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 03 - Computadores e Linguagens de Programação",
+                        "description": "Disciplina: Programação de Computadores - ILP 001\nAula 03 - Computadores e Linguagens de Programação\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/4zajJx4eBvw/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/4zajJx4eBvw/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/4zajJx4eBvw/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/4zajJx4eBvw/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/4zajJx4eBvw/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 2,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "4zajJx4eBvw"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "ZLyRNFtZrDsqlvmZJymzjrCvOBI",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS41MjE1MkI0OTQ2QzJGNzNG",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:13:37Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 04 - Linguagens de Programação e Um Primeiro Programa",
+                        "description": "Programação de Computadores - Aula 04 - Linguagens de Programação e Um Primeiro Programa\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/31K-3O1NA7k/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/31K-3O1NA7k/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/31K-3O1NA7k/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/31K-3O1NA7k/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/31K-3O1NA7k/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 3,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "31K-3O1NA7k"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "kEQvI5CgpE-EVVWM-pK5r9OHgrE",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4wOTA3OTZBNzVEMTUzOTMy",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:13:52Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 05 - Operações Aritméticas e Variáveis",
+                        "description": "Programação de Computadores - Aula 05 - Operações Aritméticas e Variáveis\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/XR1dPQ_SKH0/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/XR1dPQ_SKH0/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/XR1dPQ_SKH0/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/XR1dPQ_SKH0/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/XR1dPQ_SKH0/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 4,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "XR1dPQ_SKH0"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "TdbcnTjBWxa7d7FnCBhKCzkgx74",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4xMkVGQjNCMUM1N0RFNEUx",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:14:15Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 06 - Divisão inteira, Tipos numéricos e Constantes",
+                        "description": "Programação de Computadores - Aula 06 - Divisão inteira, Tipos numéricos e Constantes\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/tZXF4Ar_w58/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/tZXF4Ar_w58/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/tZXF4Ar_w58/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/tZXF4Ar_w58/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/tZXF4Ar_w58/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 5,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "tZXF4Ar_w58"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "ecNvfHmjfGy_Yza50pXrQ4g9580",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS41MzJCQjBCNDIyRkJDN0VD",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:14:22Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 07 - Métodos e Parâmetros",
+                        "description": "Aula 07 - Métodos e Parâmetros\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/rK3LpUSijGM/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/rK3LpUSijGM/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/rK3LpUSijGM/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/rK3LpUSijGM/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/rK3LpUSijGM/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 6,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "rK3LpUSijGM"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "PSSe9CxmSlkda5_XDkH2AYW3VRg",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5DQUNERDQ2NkIzRUQxNTY1",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:14:28Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 08 - Métodos e Memória, Atributos",
+                        "description": "Aula 08 - Métodos e Memória, Atributos\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/fOintAunVVg/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/fOintAunVVg/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/fOintAunVVg/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/fOintAunVVg/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/fOintAunVVg/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 7,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "fOintAunVVg"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "SwtX2uYbs54Jz5XkTQcj6xwDgtg",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS45NDk1REZENzhEMzU5MDQz",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:14:36Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 09 - Condicionais e Variáveis Booleanas",
+                        "description": "Programação de Computadores - Aula 09 - Condicionais e Variáveis Booleanas\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/oIIiNl9jknA/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/oIIiNl9jknA/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/oIIiNl9jknA/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/oIIiNl9jknA/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/oIIiNl9jknA/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 8,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "oIIiNl9jknA"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "q5uZnztfYEaBPP8s7fdU9Q3K-RY",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5GNjNDRDREMDQxOThCMDQ2",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:14:45Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 10 - Condicionais Aninhados e Operadores Lógicos",
+                        "description": "Programação de Computadores - Aula 10 - Condicionais Aninhados e Operadores Lógicos\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/jj35ngukLfg/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/jj35ngukLfg/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/jj35ngukLfg/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/jj35ngukLfg/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/jj35ngukLfg/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 9,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "jj35ngukLfg"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "Iy6MC7lczF7wu6yh_NSJkx863qc",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS40NzZCMERDMjVEN0RFRThB",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:14:54Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 11 - Switch e Laço While",
+                        "description": "Programação de Computadores - Aula 11 - Switch e Laço While\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/odhAEDP2ivQ/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/odhAEDP2ivQ/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/odhAEDP2ivQ/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/odhAEDP2ivQ/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/odhAEDP2ivQ/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 10,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "odhAEDP2ivQ"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "ioi4XKq52QEAVFbIL8C-6bbm8g8",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5EMEEwRUY5M0RDRTU3NDJC",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:15:01Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 12 - While Aninhado, Do... While",
+                        "description": "Programação de Computadores - Aula 12 - While Aninhado, Do... While\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/mOrsP1-wtlM/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/mOrsP1-wtlM/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/mOrsP1-wtlM/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/mOrsP1-wtlM/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/mOrsP1-wtlM/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 11,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "mOrsP1-wtlM"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "q9sr98_PC8fJJuyB39lCDXKllPI",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS45ODRDNTg0QjA4NkFBNkQy",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:15:07Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 13 - Laço For",
+                        "description": "Programação de Computadores - Aula 13 - Laço For\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/SKoEmpiSXm0/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/SKoEmpiSXm0/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/SKoEmpiSXm0/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/SKoEmpiSXm0/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/SKoEmpiSXm0/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 12,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "SKoEmpiSXm0"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "-S257qTGTWz0l9A1AB72PiwRd8s",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4zMDg5MkQ5MEVDMEM1NTg2",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:15:14Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 14 - Arranjos - parte 1",
+                        "description": "Programação de Computadores - Aula 14 - Arranjos - parte 1\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/Iq50qq6QfUU/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/Iq50qq6QfUU/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/Iq50qq6QfUU/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/Iq50qq6QfUU/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/Iq50qq6QfUU/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 13,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "Iq50qq6QfUU"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "4nqzzzlc0CiOvs787P7GMx3r5QY",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS41Mzk2QTAxMTkzNDk4MDhF",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:15:22Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 15 - Arranjos - Parte 2",
+                        "description": "Programação de Computadores - Aula 15 - Arranjos - Parte 2\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/H6kWSniXHto/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/H6kWSniXHto/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/H6kWSniXHto/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/H6kWSniXHto/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/H6kWSniXHto/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 14,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "H6kWSniXHto"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "hGSTUM9zoYbpAWCJtZ4otk7lFFs",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5EQUE1NTFDRjcwMDg0NEMz",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:16:06Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 16 - Caracteres e Arranjos de Caracteres",
+                        "description": "Programação de Computadores - Aula 16 - Caracteres e Arranjos de Caracteres\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/8pjm-vDrcXE/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/8pjm-vDrcXE/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/8pjm-vDrcXE/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/8pjm-vDrcXE/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/8pjm-vDrcXE/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 15,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "8pjm-vDrcXE"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "N2KoV9_OB9sN4OSnl4bmzzjln68",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS41QTY1Q0UxMTVCODczNThE",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:16:12Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 17 - Arranjos de Arranjos e Matrizes (parte I)",
+                        "description": "Programação de Computadores - Aula 17 - Arranjos de Arranjos e Matrizes (parte I)\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/SvJwVSQdwKo/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/SvJwVSQdwKo/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/SvJwVSQdwKo/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/SvJwVSQdwKo/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/SvJwVSQdwKo/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 16,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "SvJwVSQdwKo"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "MhLmn2p2DhgzlaGyah79LHATABI",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4yMUQyQTQzMjRDNzMyQTMy",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:16:21Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 18 - Matrizes - (parte II)",
+                        "description": "Programação de Computadores - Aula 18 - Matrizes - (parte II)\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/_qqGJV-ovzs/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/_qqGJV-ovzs/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/_qqGJV-ovzs/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/_qqGJV-ovzs/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/_qqGJV-ovzs/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 17,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "_qqGJV-ovzs"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "GNnoRgZa0VxouQXPS2Kaie7uq28",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS45RTgxNDRBMzUwRjQ0MDhC",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:16:27Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 19 - Orientação a Objetos e Classes",
+                        "description": "Programação de Computadores - Aula 19 - Orientação a Objetos e Classes\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/RMIrqhSivso/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/RMIrqhSivso/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/RMIrqhSivso/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/RMIrqhSivso/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/RMIrqhSivso/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 18,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "RMIrqhSivso"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "FyGCno6t5wziNq6z_SYKc_LJgGs",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5ENDU4Q0M4RDExNzM1Mjcy",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:16:33Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 20 - Classes",
+                        "description": "Programação de Computadores - Aula 20 - Classes\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/yAl4m5hvaAU/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/yAl4m5hvaAU/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/yAl4m5hvaAU/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/yAl4m5hvaAU/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/yAl4m5hvaAU/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 19,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "yAl4m5hvaAU"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "IMjt8meMHmRJLfZTzenp7WVu4xo",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4yMDhBMkNBNjRDMjQxQTg1",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:16:44Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 21 - Construtores",
+                        "description": "Programação de Computadores - Aula 21 - Construtores\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/C-2jVnvSI_U/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/C-2jVnvSI_U/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/C-2jVnvSI_U/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/C-2jVnvSI_U/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/C-2jVnvSI_U/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 20,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "C-2jVnvSI_U"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "B5yMtqRN7ro2BTyYIgjTrg3kWAc",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5GM0Q3M0MzMzY5NTJFNTdE",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:16:52Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 22 - Arranjos e Objetos Strings",
+                        "description": "Programação de Computadores - Aula 22 - Arranjos e Objetos Strings\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/NUKflTnntcw/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/NUKflTnntcw/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/NUKflTnntcw/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/NUKflTnntcw/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/NUKflTnntcw/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 21,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "NUKflTnntcw"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "kFL70tlhBh9MM4L31Mln33XKUdU",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4zRjM0MkVCRTg0MkYyQTM0",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:17:09Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 23 - Busca Sequencial e Binária",
+                        "description": "Programação de Computadores - Aula 23 - Busca Sequencial e Binária\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/8weGr_G3Pqo/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/8weGr_G3Pqo/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/8weGr_G3Pqo/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/8weGr_G3Pqo/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/8weGr_G3Pqo/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 22,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "8weGr_G3Pqo"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "CKavnOW_lsjE4jt6O_UOQpzVto4",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS45NzUwQkI1M0UxNThBMkU0",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:17:14Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 24 - Ordenação - Parte I",
+                        "description": "Programação de Computadores - Aula 24 - Ordenação - Parte I\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/Yw_QLLlIsII/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/Yw_QLLlIsII/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/Yw_QLLlIsII/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/Yw_QLLlIsII/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/Yw_QLLlIsII/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 23,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "Yw_QLLlIsII"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "L0RUo0a1HGMJEk-CKdRSEUsieRA",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5DNzE1RjZEMUZCMjA0RDBB",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:17:22Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 25 - Ordenação - Parte II",
+                        "description": "Programação de Computadores - Aula 25 - Ordenação - Parte II\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/_4iTg2K4bqY/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/_4iTg2K4bqY/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/_4iTg2K4bqY/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/_4iTg2K4bqY/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/_4iTg2K4bqY/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 24,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "_4iTg2K4bqY"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "PXHAvR2iufvSFHTX9I77JMQZLlE",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS43MTI1NDIwOTMwQjIxMzNG",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:17:28Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 26 - Ordenação - Parte III",
+                        "description": "Programação de Computadores - Aula 26 - Ordenação - Parte III\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/pnGhdy5B02I/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/pnGhdy5B02I/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/pnGhdy5B02I/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/pnGhdy5B02I/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/pnGhdy5B02I/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 25,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "pnGhdy5B02I"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "horkKbQXD7aAHKM2_A0okGrftv4",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:17:34Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 27 - Entrada, Exceções e Arquivos",
+                        "description": "Programação de Computadores - Aula 27 - Entrada, Exceções e Arquivos\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/dHou1G8iYo4/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/dHou1G8iYo4/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/dHou1G8iYo4/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/dHou1G8iYo4/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/dHou1G8iYo4/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 26,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "dHou1G8iYo4"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                },
+                {
+                    "kind": "youtube#playlistItem",
+                    "etag": "npHdiAmocq1QTAB-jTg9yuiTeDo",
+                    "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4yQUE2Q0JEMTk4NTM3RTZC",
+                    "snippet": {
+                        "publishedAt": "2023-02-13T14:17:41Z",
+                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
+                        "title": "Programação de Computadores - Aula 28 - Entrada e Saída com Arquivos, Operadores Bit-a-Bit",
+                        "description": "Programação de Computadores - Aula 28 - Entrada e Saída com Arquivos, Operadores Bit-a-Bit\nDisciplina: Programação de Computadores - ILP 001\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/4WYyd7MNDqQ/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/4WYyd7MNDqQ/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/4WYyd7MNDqQ/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            },
+                            "standard": {
+                                "url": "https://i.ytimg.com/vi/4WYyd7MNDqQ/sddefault.jpg",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "maxres": {
+                                "url": "https://i.ytimg.com/vi/4WYyd7MNDqQ/maxresdefault.jpg",
+                                "width": 1280,
+                                "height": 720
+                            }
+                        },
+                        "channelTitle": "Luciano Digiampietri",
+                        "playlistId": "PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy",
+                        "position": 27,
+                        "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "4WYyd7MNDqQ"
+                        },
+                        "videoOwnerChannelTitle": "UNIVESP",
+                        "videoOwnerChannelId": "UCBL2tfrwhEhX52Dze_aO3zA"
+                    }
+                }
+            ],
+            "pageInfo": {
+                "totalResults": 28,
+                "resultsPerPage": 50
+            }
+        }
     ]
 }
